@@ -10,12 +10,11 @@ KZX Engine is an 3D  game engine under a proprietary based license, the KZX Engi
 
 KZX Engine Main pillars are:
 - Layout/Design
-- Innovation
 - Easy-To-Use
 - Documentation
 - Usable for educational students & professionals
 - High-quality Tooling
-- Modular systems
+- Modular tools/systems
 
 <br/>
 <a href="https://www.kzxengine.com"><h1>Dowload KZX Engine Here</1h></a>
