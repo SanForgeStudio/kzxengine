@@ -14,7 +14,7 @@ KZX Engine Main pillars are:
 - Documentation
 - Usable for educational students & professionals
 - High-quality Tooling
-- Modular tools/systems
+- Modular tools/systems.
 
 <br/>
 <a href="https://www.kzxengine.com"><h1>Dowload KZX Engine Here</1h></a>
