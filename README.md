@@ -6,9 +6,9 @@
   
 # KZX Engine
 ## Description
-KZX Engine is an 3D  game engine under a proprietary based license, the KZX Engine was inspired by the gaming industry standards, created by [Grand Dog Studio](https://www.granddogstudio.com/). KZX Engine is now currently a Closed-sourced 3D Engine but that could possibly eventually change, if we were to become open source, then this repository would be open to any contributions.
+KZX Engine is an 3D  game engine under a proprietary based license, the KZX Engine was inspired by the gaming industry standards, created by [Grand Dog Studio](https://www.granddogstudio.com/). KZX Engine is now currently a Closed-sourced 3D Engine due to copythefts, but that could eventually change, if we were to become open source, then this repository would be open to any contributions.
 
-KZX Engine was based around these pillars:
+KZX Engine was based around these key functions:
 - User Interface
 - Easy-To-Use
 - Documentation
@@ -16,7 +16,7 @@ KZX Engine was based around these pillars:
 - Modularity.
 
 <br/>
-<a href="https://www.kzxengine.com"><h1>Dowload KZX Engine Here</1h></a>
+<a href="https://www.kzxengine.com"><h1>Download KZX Engine Here</1h></a>
 
 <br/>
 <br/>
