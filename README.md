@@ -70,7 +70,8 @@ Learn how to create your own games using the KZX Engine by visiting our [documen
 Currently Closed!
 
 # 6. Licence?
-KZX Engine is licensed under a custom proprietary license "Company License", Can be found [here]([https://www.granddogstudio.com/](https://www.kzxengine.com/KZX_Software_License__EULA.pdf)).
+KZX Engine is licensed under a custom proprietary license "Company License", Can be found 
+[here]([https://www.granddogstudio.com/](https://www.kzxengine.com/KZX_Software_License__EULA.pdf)).
 
 <br/>
 <a href="https://www.kzxengine.com"><h1>Download KZX Engine Here</1h></a>
