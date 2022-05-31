@@ -1,7 +1,4 @@
 <html>
-
-[KZX Engine Logo](https://www.kzxengine.com/kzx.png)
-
   
 # 1. What is KZX Engine
 ## 1.1. Description
