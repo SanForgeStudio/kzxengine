@@ -17,7 +17,7 @@ KZX Engine was based around these key functions:
 KZX Engine was officially founded in 2014 by a small software developer named Sander Kerkhoff he also started his own organization during that period which he named "Grand Dog Studio". With a small team of 4 creators, KZX Engine became a facinating program that has won a few bussines and technology awards for their profounding software, the initial engine was made using dependancies for a better workflow for making games. The engine is still under heavy construction after all these years. The engine was originally intended for open-source uses, the engine got copythefted and got cloned by multiple people. KZX Engine is to this day still a hardworking project with developers with great passion for software.
 
 
-## 2.2. What are our Goals?
+# 2.2. What are our Goals?
 Our primary goals for this project were:
 - Understanding the workflow of game engine architecture.
 - Creating an application for beginners and professionals.
@@ -40,7 +40,7 @@ Here is a list of our main features:
 - FBX, OBJ, DAE Model Support
 
 
-## 4. Core Dependencies
+# 4. Core Dependencies
 - OpenGL with GLEW (Graphics API)
 - VULKAN (Graphics API 2 - WIP)
 - GLFW (Windowing and inputs)
@@ -62,7 +62,7 @@ KZX Engine minimum requirements:
 - GPU: Any Graphics card supporting OpenGL 4.3
 
 
-## 6. Licence
+# 6. Licence
 KZX Engine is licensed under a custom proprietary license "Company License", Can be found [here]([https://www.granddogstudio.com/](https://www.kzxengine.com/KZX_Software_License__EULA.pdf)).
 
 <br/>
