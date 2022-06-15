@@ -16,7 +16,7 @@ KZX Engine was based around these key functions:
 
 # 2. History of KZX Engine?
 ## 2.1. About KZX Engine
-KZX Engine(AKA Omega Vreckle Engine) was officially founded in 2014 by a small software developer named Sander Kerkhoff he also started his own organization during that period which he named "Grand Dog Studio". KZX Engine became a facinating program that has won a few bussines and technology awards for their profounding software, the initial engine was made using certain libraries and systematics for a better workflow for making video games. The engine is still under heavy construction after all these years. The engine was originally intended for open-source uses, the engine got copythefted and got cloned by multiple people. KZX Engine is to this day still a hardworking project with developers with great passion for software.
+KZX Engine(AKA Omega Vreckle Engine) was officially founded in 2014 by a small dutch software developer named Sander Kerkhoff he also started his own organization during that period which he named "Grand Dog Studio". KZX Engine became a facinating program that has won a few bussines and technology awards for their profounding software, the initial engine was made using certain libraries and systematics for a better workflow for making video games. The engine is still under heavy construction after all these years. The engine was originally intended for open-source uses, the engine got copythefted and got cloned by multiple people therefor our rename. KZX Engine is to this day still a hardworking project with developers with great passion for software.
 
 
 # 2.2. What are our Goals?
@@ -24,8 +24,8 @@ Our primary goals for this project were:
 - Understanding the workflow of game engine architecture.
 - Creating an application for beginners and professionals.
 - Making a program that is easy to learn.
-- Creating a video game in our own software.
-- Developping high-quality documentation for developers.
+- Creating a video game demo in our own software.
+- Creating a expanded documentation for developers to learn.
 
 
 # 3. Features?
@@ -49,11 +49,12 @@ Here is a list of our main features:
 - Assimp (3D model loader)
 - Bullet3 (Physics)
 - irrKlang (Audio)
-- TextureED (Texture Editor - WIP)
+- KZXTextureED (Texture Editor - WIP)
 - KZXcore (Core)
 - Tinyxml2 (XML Serializer)
 - Monobinder (C# Binder - WIP)
 - SOL2 (Lua binder)
+- DiscordSDK
 - imGui (GUI)
 
 # 5. OS Requirements?
@@ -66,14 +67,14 @@ KZX Engine minimum requirements:
 # 5. Getting started?
 Learn how to create your own games using the KZX Engine by visiting our [documentation](https://github.com/adriengivry/Overload/wiki).
 
-# 6. Contributing?
-Currently Closed!
+# 6. Contribution?
+  <italic>Currently Closed!</italic>
 
 # 6. Licence?
 KZX Engine is licensed under a custom proprietary license "Company License", Can be found [here](https://www.kzxengine.com/KZX_Software_License__EULA.pdf).
 
 <br/>
-<a href="https://www.kzxengine.com"><h1>Download KZX Engine Here</1h></a>
+<a href="https://www.kzxengine.com"><h1>Download the KZX Engine</1h></a>
 
 <br/>
 <br/>
