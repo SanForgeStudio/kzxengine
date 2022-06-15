@@ -87,7 +87,7 @@ KZX Engine is licensed under a custom proprietary license "Company License", Can
 
 <br/>
 <br/>
-<a href="https://discord.gg/jKDvv7s"><img src="https://img.shields.io/discord/622075717659656195.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2" height=30></img></a>
+<a href="https://discord.gg/bDJ2q6X5w6"><img src="https://img.shields.io/discord/622075717659656195.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2" height=30></img></a>
 </p>
 
 </html>
