@@ -11,7 +11,7 @@ KZX Engine was based around these key functions:
 - Easy-To-Use.
 - Effective Documentation
 - Usable for educational students & professionals.
-- Rewarding system using certification program. (WIP)
+- Rewarding system using certification program.
 - Modularity.
 
 # 2. History of KZX Engine?
