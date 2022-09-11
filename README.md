@@ -20,6 +20,8 @@ The KZX Engine was based around these key functions:
 - Rewarding system using certification program.
 - Modularity.
 
+<img align="center" alt="FPS" src="https://www.kzxengine.com/documentation/fpsshowcase.gif" width="500" style="vertical-align:top" />
+
 # 1. History of the KZX Engine?
 ## 1.1. About the KZX Engine
 The KZX Engine(AKA Omega Vreckle Engine) was officially founded in 2014 by a small dutch software developer named Sander Kerkhoff he also started his own organization during that period which he named "Grand Dog Studio". the currently known KZX Engine became a facinating program that has won a few bussines and technology awards for their profounding software, the initial KZX Engine was made using certain libraries and systematics for a better and simpeler workflow for making video games using lua scripting. The engine is currently still under heavy construction after all these years. The Omega Vreckle engine was originally ment for open-source uses however the engine got copythefted and got cloned by multiple people therefor the engine rename and the closed license. 
