@@ -136,14 +136,6 @@ KZX Engine is licensed under a custom proprietary license "Company License", Can
 See all releases [here](https://github.com/Grand-Dog-Studio/KZXEngine/releases)
 <br/>
 <br/>
-
-# 10. Copying?
-
-Copying and distributing is against our EULA.
-
-<br/>
-<br/>
-
 </p>
 
 </html>
