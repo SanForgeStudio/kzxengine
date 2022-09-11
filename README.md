@@ -12,6 +12,8 @@ The KZX Engine is a free 3D video game engine under a proprietary based software
 <a href="https://kzxengine.com/KZX_Software_License__EULA.pdf"><img alt="platforms" src="https://img.shields.io/badge/License-Proprietary-orange"/></a>
 <a href="#"><img alt="platforms" src="https://img.shields.io/badge/platforms-Windows-blue?style=flat-square"/></a>
 
+<a href="https://discord.gg/bDJ2q6X5w6"><img src="https://img.shields.io/discord/622075717659656195.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2" height=30></img></a>
+
 The KZX Engine was based around these key functions:
 - User Interface.
 - Easy-To-Use.
@@ -134,19 +136,14 @@ KZX Engine is licensed under a custom proprietary license "Company License", Can
 See all releases [here](https://github.com/Grand-Dog-Studio/KZXEngine/releases)
 <br/>
 <br/>
-<a href="#"><img alt="platforms" src="https://img.shields.io/badge/Version-4.0.2-sucess"/></a> <a href="#"><img alt="availabilty" src="https://img.shields.io/badge/Source%20Code-Unavailable-red"/></a> <a href="#"><img alt="status" src="https://img.shields.io/badge/Status-Released-green"/></a> 
-
 
 # 10. Copying?
 
 Copying and distributing is against our EULA.
 
-<a href="https://kzxengine.com/KZX_Software_License__EULA.pdf"><img alt="platforms" src="https://img.shields.io/badge/License-Proprietary-orange"/></a>
-<a href="#"><img alt="platforms" src="https://img.shields.io/badge/platforms-Windows-blue?style=flat-square"/></a>
+<br/>
+<br/>
 
-<br/>
-<br/>
-<a href="https://discord.gg/bDJ2q6X5w6"><img src="https://img.shields.io/discord/622075717659656195.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2" height=30></img></a>
 </p>
 
 </html>
