@@ -28,7 +28,7 @@ The KZX Engine(AKA Omega Vreckle Engine) was officially founded in 2014 by a sma
 But no worries, the current KZX Engine is to this day still a hardworking and award winning project with developers with great passion for software.
 
 
-# 1.3. What are our original Goals?
+# 2. What are our original Goals?
 Our primary goals for this project were:
 - Understanding the workflow of a full game engines architecture and its back-end processes.
 - Creating a application for beginners and professionals that is easy to learn.
@@ -37,7 +37,7 @@ Our primary goals for this project were:
 - Creating a expanded documentation for developers to learn.
 
 
-# 2. Features?
+# 3. Features?
 
   Current features:
 
@@ -94,7 +94,7 @@ Upcomming features:
     -. Linux Engine support.
 
 
-# 3. Core Dependencies?
+# 4. Core Dependencies?
 
 Current:
 
@@ -115,23 +115,23 @@ Work In Progress:
 - Monobinder (C# Binder - WIP)
 - DiscordSDK
 
-# 4. OS Requirements?
+# 5. OS Requirements?
 KZX Engine minimum requirements:
 - RAM: 512 MB
 - Disk: 1 GB
 - OS: Windows 7+
 - GPU: Any Graphics card supporting OpenGL 4.3
 
-# 5. Getting started?
+# 6. Getting started?
 Learn how to create your own games using the KZX Engine by visiting our [documentation](https://github.com/adriengivry/Overload/wiki).
 
-# 6. Contribution?
+# 7. Contribution?
   <italic>Currently Closed!</italic>
 
-# 7. Licence?
+# 8. Licence?
 KZX Engine is licensed under a custom proprietary license "Company License", Can be found [here](https://www.kzxengine.com/KZX_Software_License__EULA.pdf).
 
-# 8. Changelog?
+# 9. Changelog?
 
 See all releases [here](https://github.com/Grand-Dog-Studio/KZXEngine/releases)
 <br/>
