@@ -1,7 +1,6 @@
 <html>
   
-<p align="center">
-<img align="center" alt="kzx" src="https://www.kzxengine.com/kzx.png" width="100" style="vertical-align:top" />
+<img align="left" alt="kzx" src="https://www.kzxengine.com/kzx.png" width="100" style="vertical-align:top" />
 
 # 1. What is KZX Engine?
 ## 1.1. Description
