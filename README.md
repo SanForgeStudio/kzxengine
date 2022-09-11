@@ -98,7 +98,27 @@ Upcomming features:
     -. Linux Engine support.
 
 
-# 4. Core Dependencies?
+# 4. Scripting
+
+Some basic Lua scripting:
+```lua
+
+local helloworld =
+{
+}
+
+function helloworld:OnStart()
+  
+  Debug.Log(tostring("Hello World :D"))
+
+end
+
+return helloworld
+
+```
+
+
+# 5. Core Dependencies?
 
 Current:
 
@@ -119,23 +139,23 @@ Work In Progress:
 - Monobinder (C# Binder - WIP)
 - DiscordSDK
 
-# 5. OS Requirements?
+# 6. OS Requirements?
 KZX Engine minimum requirements:
 - RAM: 512 MB
 - Disk: 1 GB
 - OS: Windows 7+
 - GPU: Any Graphics card supporting OpenGL 4.3
 
-# 6. Getting started?
+# 7. Getting started?
 Learn how to create your own games using the KZX Engine by visiting our [documentation](https://github.com/adriengivry/Overload/wiki).
 
-# 7. Contribution?
+# 8. Contribution?
   <italic>Currently Closed!</italic>
 
-# 8. Licence?
+# 9. Licence?
 KZX Engine is licensed under a custom proprietary license "Company License", Can be found [here](https://www.kzxengine.com/KZX_Software_License__EULA.pdf).
 
-# 9. Changelog?
+# 10. Changelog?
 
 See all releases [here](https://github.com/Grand-Dog-Studio/KZXEngine/releases)
 <br/>
