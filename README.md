@@ -93,19 +93,25 @@ Upcomming features:
 
 
 # 3. Core Dependencies?
+
+Current:
+
 - OpenGL with GLEW (Current Graphics API)
-- VULKAN (WIP)
 - GLFW (Windowing and inputs system)
 - Assimp (3D model loader)
 - Bullet3 (Physics)
 - irrKlang (Audio)
-- KZXTextureED (Texture Editor - WIP)
-- KZXcore (Core)
+- KZX / Omega Vreckle Core (Systems Back-end Core)
 - Tinyxml2 (XML Serializer)
-- Monobinder (C# Binder - WIP)
 - SOL2 (Lua binder)
-- DiscordSDK
 - imGui (GUI and interfaces.)
+
+Work In Progress:
+- VULKAN (WIP)
+- KZXTextureED (Texture Editor - WIP)
+- KZX 2.0 Core System (Renewed Core Architecture for back-end processes and overall engine structure.)
+- Monobinder (C# Binder - WIP)
+- DiscordSDK
 
 # 4. OS Requirements?
 KZX Engine minimum requirements:
@@ -130,10 +136,10 @@ See all releases [here](https://github.com/Grand-Dog-Studio/KZXEngine/releases)
 <br/>
 <a href="#"><img alt="platforms" src="https://img.shields.io/badge/Version-4.0.2-sucess"/></a> <a href="#"><img alt="availabilty" src="https://img.shields.io/badge/Source%20Code-Unavailable-red"/></a> <a href="#"><img alt="status" src="https://img.shields.io/badge/Status-Released-green"/></a> 
 
-# 9. Authors?
-
 
 # 10. Copying?
+
+Copying and distributing is against our EULA.
 
 <a href="https://kzxengine.com/KZX_Software_License__EULA.pdf"><img alt="platforms" src="https://img.shields.io/badge/License-Proprietary-orange"/></a>
 <a href="#"><img alt="platforms" src="https://img.shields.io/badge/platforms-Windows-blue?style=flat-square"/></a>
