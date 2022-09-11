@@ -2,14 +2,13 @@
   
 <img align="left" alt="kzx" src="https://www.kzxengine.com/kzx.png" width="100" style="vertical-align:top" />
 
-# What is the KZX Engine?
-KZX Engine is a free 3D video game engine under a proprietary based license. This engine was made soley in C++ and extensive libraries, the KZX Engine was inspired by the popular gaming industry engines such as "Unity" or "Unreal Engine", created by [Grand Dog Studio](https://www.granddogstudio.com/). The KZX Engine is now currently a Closed-sourced 3D game engine due to copythefts that happened in the past. But that could still eventually change, if we would become open source then this current repository would be open to any contribution from the community.
+# KZX Engine.
+The KZX Engine is a free 3D video game engine under a proprietary based software license. This engine was made soley in C++ and extensive libraries, the KZX Engine was inspired by the popular gaming industry engines such as "Unity" or "Unreal Engine", created by [Grand Dog Studio](https://www.granddogstudio.com/). The KZX Engine is now currently a Closed-sourced 3D game engine due to copythefts that happened in the past. But that could still eventually change, if we would become open source then this current repository would be open to any contribution from the community in the future.
 
 
-<a href="#"><img alt="platforms" src="https://img.shields.io/badge/Version-4.0.2-sucess"/></a> <a href="#"><img alt="availabilty" src="https://img.shields.io/badge/Source%20Code-Unavailable-red"/></a> <a href="#"><img alt="status" src="https://img.shields.io/badge/Status-Released-green"/></a> 
-
-
-
+<a href="#"><img alt="platforms" src="https://img.shields.io/badge/Version-4.0.2-sucess"/></a> 
+<a href="#"><img alt="availabilty" src="https://img.shields.io/badge/Source%20Code-Unavailable-red"/></a>  
+<a href="#"><img alt="status" src="https://img.shields.io/badge/Status-Released-green"/></a> 
 <a href="https://kzxengine.com/KZX_Software_License__EULA.pdf"><img alt="platforms" src="https://img.shields.io/badge/License-Proprietary-orange"/></a>
 <a href="#"><img alt="platforms" src="https://img.shields.io/badge/platforms-Windows-blue?style=flat-square"/></a>
 
@@ -37,23 +36,65 @@ Our primary goals for this project were:
 
 
 # 2. Features?
-Here is a list of our main features:
-- Modern Game Editor
-- Advanced Lua scripting binding
-- Physically-based material rendering
-- Custom material shaders support
-- Windows building system for games
-- Profiling System
-- High-quality Material editor
-- Full 3D sounds
-- Simple Rigidbody physics
-- FBX, OBJ, DAE Model Support
+Current features:
+
+    OpenGL Support
+  -  Audio Files Support
+  -  Lights with physical units (for directional, candelas for point and spot lights)
+  -  Main Editor UI (Basic GUI for the KZX Engine)
+  -  Custom extentions (.kzxproject, .kzxmat, .kzxscene)
+  -  Physics (W, Colliders, Kinematics) Support
+  -  Simple Trigger system
+  -  Real-time material editor
+  -  Component system
+  -  Easy Project settings
+  -  Vsync & Sampling
+  -  Frustum culling Support
+  -  Dynamic Based Lighting (No lighting build issues)
+  -  Quick Launch, Build option
+  -  Image file formats support
+  -  Orthodontic Camera View (for 2D game support)
+  -  Modular & Modern Game Editor
+  -  Advanced Lua scripting
+  -  Physically-based material rendering (AKA PBR)
+  -  Custom material shaders support
+  -  Windows build system for games
+  -  Simple Profiling Tool
+  -  Full 3D Sound System
+  -  Simple and easy Rigidbody physics
+  -  FBX, OBJ, DAE Model Support
+
+ 
+Upcomming features:
+
+   - C# to Lua binding and to core translation(Luasharp workflow).
+   - Volumetric Lighting & Shadows.
+   - Volumetric Clouds & Gas.
+   - Vulkan Graphics Rendering Support
+   - RayTracing and Support (Realistic Reflections).
+   - Virtual Reality support with OpenVR.
+   - Physics Engine improvements.
+   - In-engine development testing tools for a professional testing enviroment.
+   - Atmospheric Fog and scattering.
+   - Terrain tool(W, Painting, Sculpting and foliage).
+   - Android Build Support.
+   - VR Build Support.
+   - Global Space Illumination.
+   - Skeletal Animation Support
+   - Custom game splashscreens.
+   - In-engine custom shader scripting
+   - Custom material shaders support
+   - Additional keybindings and fixes.
+   - Controller Support (Both in-engine and in-game).
+   - GPU Reduced Performance update.
+   - Integrated Post Processing.(Bloom, TAA, SSAO, DOF, etc).
+   - Linux Engine support.
 
 
 # 3. Core Dependencies?
-- OpenGL with GLEW (Graphics API)
-- VULKAN (Graphics API 2 - WIP)
-- GLFW (Windowing and inputs)
+- OpenGL with GLEW (Current Graphics API)
+- VULKAN (WIP)
+- GLFW (Windowing and inputs system)
 - Assimp (3D model loader)
 - Bullet3 (Physics)
 - irrKlang (Audio)
@@ -63,7 +104,7 @@ Here is a list of our main features:
 - Monobinder (C# Binder - WIP)
 - SOL2 (Lua binder)
 - DiscordSDK
-- imGui (GUI)
+- imGui (GUI and interfaces.)
 
 # 4. OS Requirements?
 KZX Engine minimum requirements:
@@ -83,7 +124,7 @@ KZX Engine is licensed under a custom proprietary license "Company License", Can
 
 # 8. Changelog?
 
-
+See all releases [here](https://github.com/Grand-Dog-Studio/KZXEngine/releases)
 <br/>
 <br/>
 <a href="#"><img alt="platforms" src="https://img.shields.io/badge/Version-4.0.2-sucess"/></a> <a href="#"><img alt="availabilty" src="https://img.shields.io/badge/Source%20Code-Unavailable-red"/></a> <a href="#"><img alt="status" src="https://img.shields.io/badge/Status-Released-green"/></a> 
