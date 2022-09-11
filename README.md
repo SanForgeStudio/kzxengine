@@ -3,10 +3,6 @@
 <p align="center">
 <img align="center" alt="kzx" src="https://www.kzxengine.com/kzx.png" width="100" style="vertical-align:top" />
 
-Dagon
-=====
-The goal of this project is to create a modern, easy to use, extensible 3D game engine for [D language](https://dlang.org/). Dagon is based on OpenGL 4.0 core profile. It works on Windows and Linux.  
-
 # 1. What is KZX Engine?
 ## 1.1. Description
 KZX Engine is a free 3D video game engine under a proprietary based license. This engine was made soley in C++ and extensive libraries, the KZX Engine was inspired by the popular gaming industry engines such as "Unity" or "Unreal Engine", created by [Grand Dog Studio](https://www.granddogstudio.com/). The KZX Engine is now currently a Closed-sourced 3D game engine due to copythefts that happened in the past. But that could still eventually change, if we would become open source then this current repository would be open to any contribution from the community.
