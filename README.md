@@ -20,7 +20,7 @@ The KZX Engine was based around these key functions:
 - Rewarding system using certification program.
 - Modularity.
 
-<img align="center" alt="FPS" src="https://www.kzxengine.com/documentation/fpsshowcase.gif" width="500" style="vertical-align:top" />
+<img align="center" alt="fps" src="https://www.kzxengine.com/documentation/fpsshowcase.gif" width="100" style="vertical-align:top" />
 
 # 1. History of the KZX Engine?
 ## 1.1. About the KZX Engine
