@@ -39,8 +39,8 @@ Our primary goals for this project were:
 
   Current features:
 
-    OpenGL Support
-    Audio Files Support
+    1. OpenGL Support
+     Audio Files Support
     Lights with physical units (for directional, candelas for point and spot lights)
     Main Editor UI (Basic GUI for the KZX Engine)
     Custom extentions (.kzxproject, .kzxmat, .kzxscene)
