@@ -42,7 +42,7 @@ Our primary goals for this project were:
     -. OpenGL Support
     -. Audio Files Support
     -. Lights with physical units (for directional, candelas for point and spot lights)
-    -.  Main Editor UI (Basic GUI for the KZX Engine)
+    -. Main Editor UI (Basic GUI for the KZX Engine)
     -. Custom extentions (.kzxproject, .kzxmat, .kzxscene)
     -. Physics (W, Colliders, Kinematics) Support
     -. Simple Trigger system
