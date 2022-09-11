@@ -2,7 +2,7 @@
   
 <img align="left" alt="kzx" src="https://www.kzxengine.com/kzx.png" width="100" style="vertical-align:top" />
 
-# 1. What is KZX Engine?
+# What is the KZX Engine?
 KZX Engine is a free 3D video game engine under a proprietary based license. This engine was made soley in C++ and extensive libraries, the KZX Engine was inspired by the popular gaming industry engines such as "Unity" or "Unreal Engine", created by [Grand Dog Studio](https://www.granddogstudio.com/). The KZX Engine is now currently a Closed-sourced 3D game engine due to copythefts that happened in the past. But that could still eventually change, if we would become open source then this current repository would be open to any contribution from the community.
 
 
