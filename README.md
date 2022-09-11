@@ -36,59 +36,60 @@ Our primary goals for this project were:
 
 
 # 2. Features?
-Current features:
+
+  Current features:
 
     OpenGL Support
-  -  Audio Files Support
-  -  Lights with physical units (for directional, candelas for point and spot lights)
-  -  Main Editor UI (Basic GUI for the KZX Engine)
-  -  Custom extentions (.kzxproject, .kzxmat, .kzxscene)
-  -  Physics (W, Colliders, Kinematics) Support
-  -  Simple Trigger system
-  -  Real-time material editor
-  -  Component system
-  -  Easy Project settings
-  -  Vsync & Sampling
-  -  Frustum culling Support
-  -  Dynamic Based Lighting (No lighting build issues)
-  -  Quick Launch, Build option
-  -  Image file formats support
-  -  Orthodontic Camera View (for 2D game support)
-  -  Modular & Modern Game Editor
-  -  Advanced Lua scripting
-  -  Physically-based material rendering (AKA PBR)
-  -  Custom material shaders support
-  -  Windows build system for games
-  -  Simple Profiling Tool
-  -  Full 3D Sound System
-  -  Simple and easy Rigidbody physics
-  -  FBX, OBJ, DAE Model Support
+    Audio Files Support
+    Lights with physical units (for directional, candelas for point and spot lights)
+    Main Editor UI (Basic GUI for the KZX Engine)
+    Custom extentions (.kzxproject, .kzxmat, .kzxscene)
+    Physics (W, Colliders, Kinematics) Support
+    Simple Trigger system
+    Real-time material editor
+    Component system
+    Easy Project settings
+    Vsync & Sampling
+    Frustum culling Support
+    Dynamic Based Lighting (No lighting build issues)
+    Quick Launch, Build option
+    Image file formats support
+    Orthodontic Camera View (for 2D game support)
+    Modular & Modern Game Editor
+    Advanced Lua scripting
+    Physically-based material rendering (AKA PBR)
+    Custom material shaders support
+    Windows build system for games
+    Simple Profiling Tool
+    Full 3D Sound System
+    Simple and easy Rigidbody physics
+    FBX, OBJ, DAE Model Support
 
  
 Upcomming features:
 
-   - C# to Lua binding and to core translation(Luasharp workflow).
-   - Volumetric Lighting & Shadows.
-   - Volumetric Clouds & Gas.
-   - Vulkan Graphics Rendering Support
-   - RayTracing and Support (Realistic Reflections).
-   - Virtual Reality support with OpenVR.
-   - Physics Engine improvements.
-   - In-engine development testing tools for a professional testing enviroment.
-   - Atmospheric Fog and scattering.
-   - Terrain tool(W, Painting, Sculpting and foliage).
-   - Android Build Support.
-   - VR Build Support.
-   - Global Space Illumination.
-   - Skeletal Animation Support
-   - Custom game splashscreens.
-   - In-engine custom shader scripting
-   - Custom material shaders support
-   - Additional keybindings and fixes.
-   - Controller Support (Both in-engine and in-game).
-   - GPU Reduced Performance update.
-   - Integrated Post Processing.(Bloom, TAA, SSAO, DOF, etc).
-   - Linux Engine support.
+    C# to Lua binding and to core translation(Luasharp workflow).
+    Volumetric Lighting & Shadows.
+    Volumetric Clouds & Gas.
+    Vulkan Graphics Rendering Support
+    RayTracing and Support (Realistic Reflections).
+    Virtual Reality support with OpenVR.
+    Physics Engine improvements.
+    In-engine development testing tools for a professional testing enviroment.
+    Atmospheric Fog and scattering.
+    Terrain tool(W, Painting, Sculpting and foliage).
+    Android Build Support.
+    VR Build Support.
+    Global Space Illumination.
+    Skeletal Animation Support
+    Custom game splashscreens.
+    In-engine custom shader scripting
+    Custom material shaders support
+    Additional keybindings and fixes.
+    Controller Support (Both in-engine and in-game).
+    GPU Reduced Performance update.
+    Integrated Post Processing.(Bloom, TAA, SSAO, DOF, etc).
+    Linux Engine support.
 
 
 # 3. Core Dependencies?
