@@ -12,7 +12,7 @@ The KZX Engine is a free 3D video game engine under a proprietary based software
 <a href="https://kzxengine.com/KZX_Software_License__EULA.pdf"><img alt="platforms" src="https://img.shields.io/badge/License-Proprietary-orange"/></a>
 <a href="#"><img alt="platforms" src="https://img.shields.io/badge/platforms-Windows-blue?style=flat-square"/></a>
 
-KZX Engine was based around these key functions:
+The KZX Engine was based around these key functions:
 - User Interface.
 - Easy-To-Use.
 - Effective Documentation
