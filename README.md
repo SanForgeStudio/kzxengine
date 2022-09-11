@@ -2,7 +2,7 @@
   
 <img align="left" alt="kzx" src="https://www.kzxengine.com/kzx.png" width="100" style="vertical-align:top" />
 
-<img align="left" alt="kzx" src="https://www.kzxengine.com/editor.png" width="100" style="vertical-align:top" />
+<img align="left" alt="kzx" src="https://www.kzxengine.com/editor2.png" width="100" style="vertical-align:top" />
 
 
 # KZX Engine
