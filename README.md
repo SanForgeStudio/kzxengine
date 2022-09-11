@@ -1,7 +1,12 @@
 <html>
   
 <p align="center">
-  
+<img align="center" alt="kzx" src="https://www.kzxengine.com/kzx.png" width="100" style="vertical-align:top" />
+
+Dagon
+=====
+The goal of this project is to create a modern, easy to use, extensible 3D game engine for [D language](https://dlang.org/). Dagon is based on OpenGL 4.0 core profile. It works on Windows and Linux.  
+
 # 1. What is KZX Engine?
 ## 1.1. Description
 KZX Engine is a free 3D video game engine under a proprietary based license. This engine was made soley in C++ and extensive libraries, the KZX Engine was inspired by the popular gaming industry engines such as "Unity" or "Unreal Engine", created by [Grand Dog Studio](https://www.granddogstudio.com/). The KZX Engine is now currently a Closed-sourced 3D game engine due to copythefts that happened in the past. But that could still eventually change, if we would become open source then this current repository would be open to any contribution from the community.
@@ -14,13 +19,13 @@ KZX Engine was based around these key functions:
 - Rewarding system using certification program.
 - Modularity.
 
-# 2. History of KZX Engine?
-## 2.1. About KZX Engine
+# 1. History of KZX Engine?
+## 1.1. About KZX Engine
 KZX Engine(AKA Omega Vreckle Engine) was officially founded in 2014 by a small dutch software developer named Sander Kerkhoff he also started his own organization during that period which he named "Grand Dog Studio". the currently known KZX Engine became a facinating program that has won a few bussines and technology awards for their profounding software, the initial KZX Engine was made using certain libraries and systematics for a better and simpeler workflow for making video games using lua scripting. The engine is currently still under heavy construction after all these years. The Omega Vreckle engine was originally ment for open-source uses however the engine got copythefted and got cloned by multiple people therefor the engine rename the thefters didnt credit the author which he got sidelined. 
 But no worries, the current KZX Engine is to this day still a hardworking and award winning project with developers with great passion for software.
 
 
-# 2.2. What are our original Goals?
+# 1.3. What are our original Goals?
 Our primary goals for this project were:
 - Understanding the workflow of a full game engines architecture and its back-end processes.
 - Creating a application for beginners and professionals that is easy to learn.
@@ -29,7 +34,7 @@ Our primary goals for this project were:
 - Creating a expanded documentation for developers to learn.
 
 
-# 3. Features?
+# 2. Features?
 Here is a list of our main features:
 - Modern Game Editor
 - Advanced Lua scripting binding
@@ -43,7 +48,7 @@ Here is a list of our main features:
 - FBX, OBJ, DAE Model Support
 
 
-# 4. Core Dependencies?
+# 3. Core Dependencies?
 - OpenGL with GLEW (Graphics API)
 - VULKAN (Graphics API 2 - WIP)
 - GLFW (Windowing and inputs)
@@ -58,7 +63,7 @@ Here is a list of our main features:
 - DiscordSDK
 - imGui (GUI)
 
-# 5. OS Requirements?
+# 4. OS Requirements?
 KZX Engine minimum requirements:
 - RAM: 512 MB
 - Disk: 1 GB
@@ -71,7 +76,7 @@ Learn how to create your own games using the KZX Engine by visiting our [documen
 # 6. Contribution?
   <italic>Currently Closed!</italic>
 
-# 6. Licence?
+# 7. Licence?
 KZX Engine is licensed under a custom proprietary license "Company License", Can be found [here](https://www.kzxengine.com/KZX_Software_License__EULA.pdf).
 
 <br/>
