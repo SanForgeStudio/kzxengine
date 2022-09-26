@@ -150,17 +150,17 @@ KZX Engine minimum requirements:
 - GPU: Any Graphics card supporting OpenGL 4.3
 
 # 7. Getting started?
-Learn how to create your own games using the KZX Engine by visiting our [documentation](https://github.com/adriengivry/Overload/wiki).
+Learn how to create your own games using the KZX Engine by visiting our [documentation](https://www.kzxengine.com/documentation/).
 
 # 8. Contribution?
   <italic>Currently Closed!</italic>
 
 # 9. Licence?
-KZX Engine is licensed under a custom proprietary license "Company License", Can be found [here](https://www.kzxengine.com/KZX_Software_License__EULA.pdf).
+The KZX Engine is licensed under a custom proprietary license "Company License", this Can be found [here](https://www.kzxengine.com/KZX_Software_License__EULA.pdf).
 
 # 10. Changelog?
 
-See all releases [here](https://github.com/Grand-Dog-Studio/KZXEngine/releases)
+See all the public releases [here](https://github.com/Grand-Dog-Studio/KZXEngine/releases)
 <br/>
 <br/>
 </p>
