@@ -156,7 +156,7 @@ Learn how to create your own games using the KZX Engine by visiting our [documen
   <italic>Currently Closed!</italic>
 
 # 9. Licence?
-The KZX Engine is licensed under a custom proprietary license "Company License", this Can be found [here](https://www.kzxengine.com/KZX_Software_License__EULA.pdf).
+The KZX Engine is licensed under a closed source proprietary software license "Company License", this Can be found [here](https://www.kzxengine.com/KZX_Software_License__EULA.pdf).
 
 # 10. Changelog?
 
