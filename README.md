@@ -144,7 +144,7 @@ KZX Engine minimum requirements:
 Learn how to create your own games using the KZX Engine by visiting our [documentation](https://www.kzxengine.com/documentation/).
 
 # 8. Licence?
-The KZX Engine is licensed under a closed source proprietary software license "Company License", This Can be found [here](https://www.kzxengine.com/SLEULA.pdf).
+The KZX Engine is since 2021 licensed under a closed source proprietary software license "Company License", This Can be found [here](https://www.kzxengine.com/SLEULA.pdf).
 
 # 9. Changelog?
 
