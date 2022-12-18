@@ -5,7 +5,7 @@
 
 
 # KZX Engine
-The KZX Engine is a free 3D video game engine under a proprietary based software license. This engine was made soley in C++ and extensive libraries, the KZX Engine was inspired by the popular gaming industry engines such as "Unity" or "Unreal Engine", created by [Grand Dog Studio](https://www.granddogstudio.com/). The KZX Engine is now currently a Closed-sourced 3D game engine. But that could still eventually change, if we would become open source then this current repository would be open to any contribution from the community in the future.
+The KZX Engine is a free 3D video game engine under a proprietary based software license. This engine was made in C++ and extensive libraries, the KZX Engine was inspired by the popular gaming industry engines such as "Unity" or "Unreal Engine". This engine has been created by [Grand Dog Studio](https://www.granddogstudio.com/). The KZX Engine is now currently a Closed-sourced 3D game engine due to some copytheft in the past. That could still eventually change. If the KZX Engine would become open source then this repository would be open to any contribution from the community in the future.
 
 <img align="center" alt="kzx" src="https://www.kzxengine.com/editor2.png" width="400" style="vertical-align:top" />
 
@@ -18,26 +18,17 @@ The KZX Engine is a free 3D video game engine under a proprietary based software
 
 <a href="https://discord.gg/bDJ2q6X5w6"><img src="https://img.shields.io/discord/622075717659656195.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2" height=30></img></a>
 
-The KZX Engine was based around these key functions:
-- User Interface.
-- Easy-To-Use.
-- Effective Documentation
-- Usable for educational students & professionals.
-- Rewarding system using certification program.
-- Modularity.
-
 # 1. History of the KZX Engine?
 ## 1.1. About the KZX Engine
-The KZX Engine(AKA Omega Vreckle Engine) was officially founded in 2014 by a small dutch software developer named Sander Kerkhoff he also started his own organization during that period which he named "Grand Dog Studio". the currently known KZX Engine became a facinating program that has won a few bussines and technology awards for their profounding software, the initial KZX Engine was made using certain libraries and systematics for a better and simpeler workflow for making video games using lua scripting. The engine is currently still under heavy construction after all these years. The Omega Vreckle engine was originally ment for open-source but was scrapped. 
-But no worries, the current KZX Engine is to this day still a hardworking and award winning project with developers with great passion for software.
+The KZX Engine(AKA Omega Vreckle Engine) was officially founded in april of 2014 by Grand Dog Studio. The currently known KZX Engine became a inspiring program that has won a few bussines and technology awards for it being a profoundingly good software, the initial KZX Engine was made using certain libraries and systematics for a better and simpeler workflow for making video games using lua scripting. The Omega Vreckle engine was eventually renamed and was given the name of the KZX Engine. The current KZX Engine is to this day still a hardworking and award winning project with developers with great passion for software.
 
 
-# 2. What are our original Goals?
+# 2. What are our Goals?
 Our primary goals for this project were:
-- Understanding the workflow of a full game engines architecture and its back-end processes.
+- Understanding the workflow of the full game engine architecture and its back-end processes.
 - Creating a full development application for beginners and professionals that is easy to learn.
-- Making a program that highly adaptable and modular.
-- Creating a video game demo in our own software.
+- Making a program that is highly adaptable and modular.
+- Creating a working video game demo in our own software.
 - Creating a expanded documentation for developers to learn.
 
 
@@ -140,25 +131,22 @@ Work In Progress:
 - KZXTextureED (Texture Editor - WIP)
 - KZX 2.0 Core System (Renewed Core Architecture for back-end processes and overall engine structure.)
 - Monobinder (C# Binder - WIP)
-- DiscordSDK
 
-# 6. OS Requirements?
+# 6. Specification Requirements?
 KZX Engine minimum requirements:
 - RAM: 512 MB
-- Disk: 1 GB
+- Disk: 10 GB
 - OS: Windows 7+
 - GPU: Any Graphics card supporting OpenGL 4.3
+
 
 # 7. Getting started?
 Learn how to create your own games using the KZX Engine by visiting our [documentation](https://www.kzxengine.com/documentation/).
 
-# 8. Contribution?
-  <italic>Currently Closed!</italic>
+# 8. Licence?
+The KZX Engine is licensed under a closed source proprietary software license "Company License", This Can be found [here](https://www.kzxengine.com/SLEULA.pdf).
 
-# 9. Licence?
-The KZX Engine is licensed under a closed source proprietary software license "Company License", this Can be found [here](https://www.kzxengine.com/KZX_Software_License__EULA.pdf).
-
-# 10. Changelog?
+# 9. Changelog?
 
 See all the public releases [here](https://github.com/Grand-Dog-Studio/KZXEngine/releases)
 <br/>
