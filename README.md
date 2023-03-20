@@ -136,7 +136,7 @@ Work In Progress:
 KZX Engine minimum requirements:
 - RAM: 512 MB
 - Disk: 10 GB
-- OS: Windows 7+
+- OS: Windows 7+ (64-Bit)
 - GPU: Any Graphics card supporting OpenGL 4.3
 
 
