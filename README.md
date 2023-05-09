@@ -151,10 +151,11 @@ Learn how to create your own games using the KZX Engine by visiting our [documen
 
 
 # 8. Licence?
-The KZX Engine is under a Proprietary license, This Can be found [here](https://www.kzxengine.com/SLEULA.pdf
+The KZX Engine is under a Proprietary license, This Can be found [here](https://www.kzxengine.com/SLEULA.pdf)
 
 # 9. Thirdparty?
 Because the KZX Engine uses the root/core systems as framework from the Overload Engine, we are still expanding towards re-creating our engine into our own.
+you can find said repository for yourself to check out [here](https://github.com/adriengivry/Overload)
 
 # 10. Changelog?
 
