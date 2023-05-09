@@ -5,7 +5,8 @@
 
 
 # KZX Engine
-The KZX Engine is a free 3D video game engine under a proprietary based software license. This engine was made in C++ and extensive libraries, the KZX Engine was inspired by the popular gaming industry engines such as "Unity" or "Unreal Engine". This engine has been created by [Grand Dog Studio](https://www.granddogstudio.com/). The KZX Engine is now currently a Closed-sourced 3D game engine due to some copytheft in the past. That could still eventually change. If the KZX Engine would become open source then this repository would be open to any contribution from the community in the future.
+
+The KZX Engine is a free to use 3D video game engine under a proprietary based software license wich is currently not open-source.
 
 <img align="center" alt="kzx" src="https://www.kzxengine.com/editor2.png" width="400" style="vertical-align:top" />
 
@@ -20,16 +21,15 @@ The KZX Engine is a free 3D video game engine under a proprietary based software
 
 # 1. History of the KZX Engine?
 ## 1.1. About the KZX Engine
-The KZX Engine(AKA Omega Vreckle Engine) was officially founded in april of 2014 by Grand Dog Studio. The currently known KZX Engine became a inspiring program that has won a few bussines and technology awards for it being a profoundingly good software, the initial KZX Engine was made using certain libraries and systematics for a better and simpeler workflow for making video games using lua scripting. The Omega Vreckle engine was eventually renamed and was given the name of the KZX Engine. The current KZX Engine is to this day still a hardworking and award winning project with developers with great passion for software.
+The KZX Engine is a branch of Grand Dog Studio wich was founded in 2014 in wich we already created a game engine called KZX however in 2020 we transferred our attention in using the Overload Engine as our framework in rebuilding the KZX Engine, As of now we are experimenting in re-creating alot of systems so we can bring KZX Back to its original roots.
 
 
 # 2. What are our Goals?
 Our primary goals for this project were:
 - Understanding the workflow of the full game engine architecture and its back-end processes.
-- Creating a full development application for beginners and professionals that is easy to learn.
-- Making a program that is highly adaptable and modular.
-- Creating a working video game demo in our own software.
-- Creating a expanded documentation for developers to learn.
+- Creating a game engine that is easily usable.
+- Learning from this framework and extending our knowledge with it.
+- Eventually making our own systemsframework with the knowledge we gained from our current framework.
 
 
 # 3. Features?
@@ -121,7 +121,7 @@ Current:
 - Assimp (3D model loader)
 - Bullet3 (Physics)
 - irrKlang (Audio)
-- KZX / Omega Vreckle Core (Systems Back-end Core)
+- KZX Engine / Overload Engine (Systems Back-end Core)
 - Tinyxml2 (XML Serializer)
 - SOL2 (Lua binder)
 - imGui (GUI and interfaces.)
@@ -131,6 +131,7 @@ Work In Progress:
 - KZXTextureED (Texture Editor - WIP)
 - KZX 2.0 Core System (Renewed Core Architecture for back-end processes and overall engine structure.)
 - Monobinder (C# Binder - WIP)
+- WebGL / HTML Build Supporting.
 
 # 6. Specification Requirements?
 KZX Engine minimum requirements:
@@ -143,12 +144,17 @@ KZX Engine minimum requirements:
 # 7. Getting started?
 Learn how to create your own games using the KZX Engine by visiting our [documentation](https://www.kzxengine.com/documentation/).
 
-# 8. Licence?
-The KZX Engine is since 2021 licensed under a closed source proprietary software license "Company License", This Can be found [here](https://www.kzxengine.com/SLEULA.pdf).
 
-# 9. Changelog?
+# 8. Licence?
+The KZX Engine is under a Proprietary license, This Can be found [here](https://www.kzxengine.com/SLEULA.pdf
+
+# 9. Thirdparty?
+Because the KZX Engine uses the root/core systems as framework from the Overload Engine, we are still expanding towards re-creating our engine into our own.
+
+# 10. Changelog?
 
 See all the public releases [here](https://github.com/Grand-Dog-Studio/KZXEngine/releases)
+
 <br/>
 <br/>
 </p>
