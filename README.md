@@ -12,7 +12,6 @@
 The KZX Engine is a free to use 3D video game engine under a proprietary based software license wich is currently not open-source.
 
 <br/>
-<br/>
 
 <img align="center" alt="kzx" src="https://www.kzxengine.com/editor2.png" width="400" style="vertical-align:top" />
 
