@@ -31,10 +31,10 @@ The KZX Engine is a branch of Grand Dog Studio wich was founded in 2014 in wich 
 
 # 2. What are our Goals?
 Our primary goals for this project were:
-- Understanding the workflow of the full game engine architecture and its back-end processes.
-- Creating a game engine that is easily usable.
+- Understanding the workflow of a full game engine and its back-end processes.
+- Creating a game engine that is easily usable and is powerfull for indie games.
 - Learning from this framework and extending our knowledge with it.
-- Eventually making our own systemsframework with the knowledge we gained from our current framework.
+- Eventually making our own systems framework with the knowledge we gained from our current framework.
 
 
 # 3. Features?
