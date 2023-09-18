@@ -24,7 +24,7 @@ The KZX Engine is a free to use 3D video game engine under a proprietary based s
 
 # 1. History of the KZX Engine?
 ## 1.1. About the KZX Engine
-The KZX Engine is a branch of Grand Dog Studio wich was founded in 2014 in wich we already created a game engine called KZX however in 2020 we transferred our attention in using the Overload Engine as our framework in rebuilding the KZX Engine due to our previous project getting wiped, As of now we are experimenting in re-creating alot of systems so we can bring KZX Back to its original roots.
+The KZX Engine is from SanForge wich was founded in 2014 in wich we already created a game engine called KZX however in 2020 we rebuild our framework due to our previous project getting wiped, As of now we are experimenting in re creating alot of systems so we can bring KZX Back to its original roots.
 
 
 # 2. What are our Goals?
@@ -124,7 +124,7 @@ Current:
 - Assimp (3D model loader)
 - Bullet3 (Physics)
 - irrKlang (Audio)
-- KZX Engine / Overload Engine (Systems Back-end Core)
+- KZX Engine / OV (Systems Back-end Core)
 - Tinyxml2 (XML Serializer)
 - SOL2 (Lua binder)
 - imGui (GUI and interfaces.)
@@ -151,13 +151,10 @@ Learn how to create your own games using the KZX Engine by visiting our [documen
 # 8. Licence?
 The KZX Engine is under a Proprietary license, This Can be found [here](https://www.kzxengine.com/SLEULA.pdf)
 
-# 9. Thirdparty?
-Because the KZX Engine uses the root/core systems as framework from the Overload Engine, we are still expanding towards re-creating our engine into our own.
-you can find said repository for yourself to check out [here](https://github.com/adriengivry/Overload)
 
 # 10. Discord Community?
 
-You can join our discord community [here]([https://github.com/Grand-Dog-Studio/KZXEngine/releases](https://discord.gg/WwQUd82k2X))
+You can join our discord community for the KZX Engine [here]([https://github.com/Grand-Dog-Studio/KZXEngine/releases](https://discord.gg/WwQUd82k2X))
 
 # 10. Changelog?
 
