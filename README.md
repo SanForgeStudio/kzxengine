@@ -21,7 +21,7 @@ The KZX Engine is a free to use 3D video game engine under a proprietary based s
 
 # 1. History of the KZX Engine?
 ## 1.1. About the KZX Engine
-The KZX Engine is from SanForge wich was founded in 2014 in wich we already created a game engine called KZX however in 2020 we rebuild our framework due to our previous project getting wiped, As of now we are experimenting in re creating alot of systems so we can bring KZX Back to its original roots.
+The KZX Engine is from SanForge Studio, formerly known as Grand Dog Studio wich was founded in 2014 by in wich we already created a game engine called KZX however in 2020 we rebuild our framework due to our previous project getting wiped, As of now we are experimenting in re creating alot of systems so we can bring KZX Back to its original roots.
 
 
 # 2. What are our Goals?
