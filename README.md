@@ -142,20 +142,20 @@ KZX Engine minimum requirements:
 
 
 # 7. Getting started?
-Learn how to create your own games using the KZX Engine by visiting our [documentation](https://www.kzxengine.com/documentation/).
+Learn how to create your own games using the KZX Engine by visiting our [documentation](https://www.kzxengine.tech/documentation/).
 
 
 # 8. Licence?
-The KZX Engine is under a Proprietary license, This Can be found [here](https://www.kzxengine.com/SLEULA.pdf)
+The KZX Engine is under a Proprietary license, This Can be found [here](https://www.kzxengine.tech/SLEULA.pdf)
 
 
 # 10. Discord Community?
 
-You can join our discord community for the KZX Engine [here]([https://github.com/Grand-Dog-Studio/KZXEngine/releases](https://discord.gg/WwQUd82k2X))
+You can join our discord community for the KZX Engine [here](https://discord.gg/WwQUd82k2X)
 
 # 10. Changelog?
 
-See all the public releases [here](https://github.com/Grand-Dog-Studio/KZXEngine/releases)
+See all the public releases [here](https://github.com/SanForgeStudio/kzxengine/releases)
 
 
 
